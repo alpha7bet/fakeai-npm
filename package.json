@@ -1,6 +1,6 @@
 {
   "name": "@alpha7bet/fakeai-npm",
-  "version": "1.0.39",
+  "version": "1.0.40",
   "description": "Description for fakeai-npm",
   "main": "src/index.js",
   "scripts": {
